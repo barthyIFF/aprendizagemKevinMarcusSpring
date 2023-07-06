@@ -7,7 +7,7 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
 
 @Entity
-public class ConvidadosModel implements Serializable {
+public class Convidado implements Serializable {
 	
 	private static final long serialVersionUID = 1L;
 	
